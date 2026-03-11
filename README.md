@@ -25,10 +25,10 @@ También se valida que ambos campos de contraseña coincidan.
 ## Capturas
 
 ### Contraseña inválida
-![invalid](screenshots/validar-contraseña.png)
+![invalid](HolaMundo/screenshots/validar-contraseña.png)
 
 ### Contraseñas diferentes
-![different](screenshots/validar-similitud.png)
+![different](HolaMundo/screenshots/validar-similitud.png)
 
 ### Validación correcta
-![valid](screenshots/validación-correcta.png)
+![valid](HolaMundo/screenshots/validación-correcta.png)
